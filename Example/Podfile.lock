@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - Specta (0.2.1)
+  - StatDNSAPI (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta (~> 0.2.1)
+  - StatDNSAPI (from `../`)
+
+EXTERNAL SOURCES:
+  StatDNSAPI:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+  StatDNSAPI: a669059645ca743008d4df3c3d745ebed1f8b8cb
+
+COCOAPODS: 0.33.1

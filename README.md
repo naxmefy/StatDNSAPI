@@ -1,6 +1,6 @@
 # StatDNSAPI
 
-[![CI Status](http://img.shields.io/travis/MRW Neundorf/StatDNSAPI.svg?style=flat)](https://travis-ci.org/MRW Neundorf/StatDNSAPI)
+[![CI Status](http://img.shields.io/travis/Naxmeify/StatDNSAPI.svg?style=flat)](https://travis-ci.org/Naxmeify/StatDNSAPI)
 [![Version](https://img.shields.io/cocoapods/v/StatDNSAPI.svg?style=flat)](http://cocoadocs.org/docsets/StatDNSAPI)
 [![License](https://img.shields.io/cocoapods/l/StatDNSAPI.svg?style=flat)](http://cocoadocs.org/docsets/StatDNSAPI)
 [![Platform](https://img.shields.io/cocoapods/p/StatDNSAPI.svg?style=flat)](http://cocoadocs.org/docsets/StatDNSAPI)
