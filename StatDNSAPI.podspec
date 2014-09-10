@@ -10,19 +10,16 @@
 Pod::Spec.new do |s|
   s.name             = "StatDNSAPI"
   s.version          = "0.1.0"
-  s.summary          = "A short description of StatDNSAPI."
+  s.summary          = "API Wrapper for StatDNS."
   s.description      = <<-DESC
-                       An optional longer description of StatDNSAPI
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       Get DNS-related information about a given hostname, domain or IP.
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/StatDNSAPI"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.homepage         = "https://github.com/Naxmeify/StatDNSAPI"
+  # s.screenshots    = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "MRW Neundorf" => "matt@nax.me" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/StatDNSAPI.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/Naxmeify/StatDNSAPI.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/Naxmeify'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
